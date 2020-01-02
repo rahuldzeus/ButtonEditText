@@ -1,6 +1,6 @@
 # ButtonEditText
 
-# ButtonEditText
+## EditText with Button in place of drawable
 
 Step 1: Add the JitPack repository to your build file
 

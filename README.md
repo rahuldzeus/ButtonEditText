@@ -68,7 +68,7 @@ Step 6 (Optional): Get the EditText value without OnValueChangeListener
 
 Attributes:
 
-app:editTextTitle - Set Hint of EditText
-app:editBackground -Set Background Color of EditText
+	app:editTextTitle - Set Hint of EditText
+	app:editBackground -Set Background Color of EditText
 	
   

@@ -1,0 +1,2 @@
+include ':app', ':buttonedittext', ':buttonedittext2'
+rootProject.name='LocationAccess'
